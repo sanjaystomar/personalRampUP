@@ -29,8 +29,8 @@ class GenericMethods {
     }
 }
 
-class LowerBoundMethods {
+/*class LowerBoundMethods {
     public <T super Number> void firstLowerBoundMethod(T inputValue) {
 
     }
-}
+}*/
