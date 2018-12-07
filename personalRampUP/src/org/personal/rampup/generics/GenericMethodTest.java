@@ -1,5 +1,8 @@
 package org.personal.rampup.generics;
 
+import org.personal.rampup.model.GenericEmployee;
+import org.personal.rampup.model.GenericITEmployee;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,6 +12,9 @@ public class GenericMethodTest {
         genericMethods.<String>firstGenericMethod("sanjay");
 
         System.out.println(genericMethods.<String, Integer>secondGenericMethod("fun", new Integer[]{1, 3, 5, 7, 4, 4}));
+
+        LowerBoundMethods lowerBoundMethods = new LowerBoundMethods();
+        lowerBoundMethods.firstLowerBoundMethod(new GenericEmployee());
     }
 }
 
@@ -29,8 +35,12 @@ class GenericMethods {
     }
 }
 
-/*class LowerBoundMethods {
-    public <T super Number> void firstLowerBoundMethod(T inputValue) {
-
+class LowerBoundMethods {
+    public <T extends GenericEmployee> void firstLowerBoundMethod(T inputValue) {
+            System.out.println(inputValue);
     }
-}*/
+
+//    public <T super GenericITEmployee> void firstLowerBoundMethod(T inputValue) {
+//        System.out.println(inputValue);
+//    }
+}

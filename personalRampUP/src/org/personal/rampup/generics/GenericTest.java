@@ -11,9 +11,10 @@ public class GenericTest {
         System.out.println(parentClass.parentAttribute);
         try {
             Class clas = Class.forName("org.personal.rampup.generics.ChildClass");
+            System.out.println(clas.getClassLoader().getParent().getParent());
             Method[] metholdList = clas.getMethods();
             for (Method m : metholdList) {
-                System.out.println(m);
+//                System.out.println(m);
                 if (m.isBridge()) {
 //                    ChildClass refInstance = (ChildClass) clas.newInstance();   || Object on which method is been called can be provided this or with new operator
                     m.invoke(new ChildClass(), "sanjay");
