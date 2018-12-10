@@ -27,10 +27,10 @@ public class NameSortingProblem {
         */
 
 //      Using custom comparator.
-//      Collections.sort(namedEmployeeList, new NameComparator());
+      Collections.sort(namedEmployeeList, new NameComparator());
 
         /*  Using Collections.sort and providing comparator using Lambda.*/
-        Collections.sort(namedEmployeeList, (e1, e2) -> {
+       /* Collections.sort(namedEmployeeList, (e1, e2) -> {
 
             if (!e1.getLastName().isEmpty() && !e2.getLastName().isEmpty()) {
                 return e1.getLastName().compareTo(e2.getLastName());
@@ -41,7 +41,7 @@ public class NameSortingProblem {
             } else {
                 return e2.getFirstName().compareTo(e1.getFirstName());
             }
-        });
+        });*/
 
         namedEmployeeList
                 .stream()
