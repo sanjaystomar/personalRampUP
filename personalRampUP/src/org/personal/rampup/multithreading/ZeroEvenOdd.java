@@ -1,14 +1,14 @@
 package org.personal.rampup.multithreading;
 
 /**
- * Currently not working!!
+ * Now working!!
  */
 public class ZeroEvenOdd {
     public static void main(String[] args) {
 
-        Thread t1 = new Thread(new ZeroEvenOddTask(0));
-        Thread t2 = new Thread(new ZeroEvenOddTask(1));
-        Thread t3 = new Thread(new ZeroEvenOddTask(2));
+        Thread t1 = new Thread(new ZeroEvenOddTask("zero"), "zero");
+        Thread t2 = new Thread(new ZeroEvenOddTask("even"), "even");
+        Thread t3 = new Thread(new ZeroEvenOddTask("odd"), "odd");
         t1.start();
         t2.start();
         t3.start();
@@ -16,59 +16,64 @@ public class ZeroEvenOdd {
 }
 
 class ZeroEvenOddTask implements Runnable {
-    volatile int threadNumber;
-    volatile boolean zeroFlag = false;
+    volatile String threadNumber;
+    volatile static  boolean zeroFlag = true;
 
     static Object obj = new Object();
-    volatile static int count = 0;
+    volatile static int count = 1;
 
-    public ZeroEvenOddTask(int threadNumber) {
+    public ZeroEvenOddTask(String threadNumber) {
         this.threadNumber = threadNumber;
     }
 
     @Override
     public void run() {
-        for (int i = 0; i < 20; i++) {
+        while (count < 10) {
 
-            if (zeroFlag != true && threadNumber == 0) {
+            if (threadNumber.equals("zero")) {
                 synchronized (obj) {
-                    try {
-                        System.out.println(0);
-                        obj.wait();
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
+                    while (zeroFlag != true && count <=10) {
+                        try {
+                            obj.wait();
+                        } catch (InterruptedException e) {
+                            e.printStackTrace();
+                        }
                     }
+                    System.out.print(0);
+                    zeroFlag = false;
+                    obj.notifyAll();
+                }
+            }
+
+            if (threadNumber.equals("even")) {
+                synchronized (obj) {
+                    while ((zeroFlag != false ||(zeroFlag == false && count % 2 != 0)) && count <=10) {
+                        try {
+                            obj.wait();
+                        } catch (InterruptedException e) {
+                            e.printStackTrace();
+                        }
+                    }
+                    System.out.print(count);
+                    count++;
                     zeroFlag = true;
-                    count++;
-                    notifyAll();
+                    obj.notifyAll();
                 }
             }
 
-            if (zeroFlag == true && count % 2 != 0 && threadNumber == 1) {
+            if (threadNumber.equals("odd")) {
                 synchronized (obj) {
-                    try {
-                        System.out.println(count);
-                        obj.wait();
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
+                    while ((zeroFlag != false ||(zeroFlag == false && count % 2 == 0)) && count <=10) {
+                        try {
+                            obj.wait();
+                        } catch (InterruptedException e) {
+                            e.printStackTrace();
+                        }
                     }
+                    System.out.print(count);
                     count++;
-                    zeroFlag = false;
-                    notifyAll();
-                }
-            }
-
-            if (zeroFlag == true && count % 2 == 0 && threadNumber == 2) {
-                synchronized (obj) {
-                    try {
-                        System.out.println(count);
-                        obj.wait();
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
-                    count++;
-                    zeroFlag = false;
-                    notifyAll();
+                    zeroFlag = true;
+                    obj.notifyAll();
                 }
             }
         }
