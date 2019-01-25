@@ -2,7 +2,6 @@ package org.personal.rampup.generics;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Iterator;
 import java.util.List;
 
 public class LoadChildToParent {
@@ -22,6 +21,10 @@ public class LoadChildToParent {
         for (Object cha : grandSonList) {
             System.out.println(cha);
         }
+
+        acceptExtends(listParent, listParent);
+
+
 //        grandParentList = new ArrayList<GrandParent>();
 
 //        List<? extends  Parent> testExtends = new ArrayList<>();
@@ -64,6 +67,18 @@ public class LoadChildToParent {
     /*public static <T,N> List<T> methodName(<T extends Parent> arg1, <N super Parent> arg2){
 
     }*/
+
+
+    public static void acceptExtends(List<? extends Parent> arg1, List<? super Parent> arg2) {
+        System.out.println("+++++++++");
+        arg1
+                .stream()
+                .forEach(System.out::println);
+        System.out.println("+++++++++");
+        arg2
+                .stream()
+                .forEach(System.out::println);
+    }
 
 
 }
