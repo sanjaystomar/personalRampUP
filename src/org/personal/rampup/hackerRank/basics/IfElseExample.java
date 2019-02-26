@@ -31,7 +31,7 @@ public class IfElseExample {
             String s1 = sc.next();
             int x = sc.nextInt();
             System.out.printf("%-15s%03d%n", s1, x);
-            PrintStream printf = System.out.printf("%-s15%03d%n", s1, x);
+            System.out.printf("%-s15%03d%n", s1, x);
         }
 
         System.out.println("================================");
