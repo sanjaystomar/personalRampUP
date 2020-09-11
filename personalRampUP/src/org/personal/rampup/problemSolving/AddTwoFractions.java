@@ -2,7 +2,7 @@ package org.personal.rampup.problemSolving;
 
 public class AddTwoFractions {
     public static void main(String[] args) {
-        runTest();
+        System.out.println(runTest());
 //        gcdCalcualtion(12, 20);
 //        lcmCalculation(12, 20);
     }
@@ -20,12 +20,12 @@ public class AddTwoFractions {
         return gcd;
     }
 
-    public static int lcmCalculation(int a, int b) {
+  /*  public static int lcmCalculation(int a, int b) {
 //        int lcm = Math.max(Math.abs(a), Math.abs(b));
         int lcm = Math.multiplyExact(a, b) / gcdCalcualtion(a, b);
         System.out.println(lcm);
         return lcm;
-    }
+    }*/
 
     public static boolean runTest() {
         int[] fraction1 = {5, 12};
@@ -38,10 +38,11 @@ public class AddTwoFractions {
 
     public static int[] addFractions(int[] fraction1, int[] fraction2) {
         int[] resultFraction = new int[2];
-
+// leave this initially
         if (fraction1.length == 0 && fraction2.length == 0) {
             throw new IllegalArgumentException("fractions provided values are not correct!");
         }
+// till here
         int numerator1 = fraction1[0];
         int denominator1 = fraction1[1];
         int numerator2 = fraction2[0];

@@ -29,6 +29,8 @@ public class AsciiToInteger {
     ;
 
     public static void main(String[] args) {
+
+        System.out.println(atoi("42"));
         if (pass()) {
             System.out.println("Pass");
         } else {

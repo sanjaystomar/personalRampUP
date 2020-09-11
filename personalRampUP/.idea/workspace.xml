@@ -1,343 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="082194ad-1db2-48fc-b688-b1df9f004069" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/org/personal/rampup/multithreading/ZeroEvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/personal/rampup/multithreading/ZeroEvenOdd.java" afterDir="false" />
+    <list default="true" id="082194ad-1db2-48fc-b688-b1df9f004069" name="Default Changelist" comment="CustomClassLoader code">
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/BacchaInterviewRounds/JustTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/BacchaInterviewRounds/NewClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/multithreading/ThreadsWithLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/FellaBella.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/GCOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/TraxcnCodingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolvingFresh/AnotherLongestFibSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolvingFresh/BacchaTestSaggeza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolvingFresh/LengthOfLongestFibonacciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/random/CFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/random/JustTestStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/random/MaximumInstructionsDeletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/personal/rampup/random/MirrorTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personalRampUP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/personalRampUP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/AddTwoFractions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/AddTwoFractions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/AsciiToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/AsciiToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/CalcualteExponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/CalcualteExponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/ZeroOneArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolving/ZeroOneArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/personal/rampup/problemSolvingFresh/AsciiToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolvingFresh/AsciiToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/personal/rampup/problemSolvingFresh/SnowPack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/personal/rampup/problemSolvingFresh/SnowPack.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-20946221">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="12" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="12" />
-          <entry key="PLAIN_TEXT" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1716" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1716" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="2050864481">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="8163" />
-          <entry key="txt" value="52" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="8163" />
-          <entry key="PLAIN_TEXT" value="52" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="7" />
-          <entry key="java" value="54" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="7" />
-          <entry key="JAVA" value="54" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/multithreading/ZeroEvenOdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#125#172#1" expanded="true" />
-                <element signature="e#181#228#1" expanded="true" />
-                <element signature="e#237#284#1" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#672#673#0" expanded="true" />
-                <element signature="e#761#2500#0" expanded="true" />
-                <element signature="e#761#2500#0" expanded="true" />
-                <element signature="e#795#1301#0" expanded="true" />
-                <element signature="e#799#826#0" expanded="true" />
-                <element signature="e#799#826#0" expanded="true" />
-                <element signature="e#795#1301#0" expanded="true" />
-                <element signature="e#887#1153#0" expanded="true" />
-                <element signature="e#887#1153#0" expanded="true" />
-                <element signature="e#1024#1131#0" expanded="true" />
-                <element signature="e#1024#1131#0" expanded="true" />
-                <element signature="e#1315#1896#0" expanded="true" />
-                <element signature="e#1319#1346#0" expanded="true" />
-                <element signature="e#1319#1346#0" expanded="true" />
-                <element signature="e#1315#1896#0" expanded="true" />
-                <element signature="e#1407#1716#0" expanded="true" />
-                <element signature="e#1407#1716#0" expanded="true" />
-                <element signature="e#1587#1694#0" expanded="true" />
-                <element signature="e#1587#1694#0" expanded="true" />
-                <element signature="e#1910#2490#0" expanded="true" />
-                <element signature="e#1914#1940#0" expanded="true" />
-                <element signature="e#1914#1940#0" expanded="true" />
-                <element signature="e#1910#2490#0" expanded="true" />
-                <element signature="e#2001#2310#0" expanded="true" />
-                <element signature="e#2001#2310#0" expanded="true" />
-                <element signature="e#2181#2288#0" expanded="true" />
-                <element signature="e#2181#2288#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/ExecutorService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="281" column="56" lean-forward="true" selection-start-line="281" selection-start-column="56" selection-end-line="281" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/multithreading/SumOfArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#165#203#1" expanded="true" />
-                <element signature="e#212#250#1" expanded="true" />
-                <element signature="e#563#607#1" expanded="true" />
-                <element signature="e#616#682#1" expanded="true" />
-                <element signature="e#691#735#1" expanded="true" />
-                <element signature="e#717#734#0" expanded="true" />
-                <element signature="e#785#963#0" expanded="true" />
-                <element signature="e#749#759#1" expanded="true" />
-                <element signature="e#785#963#0" expanded="true" />
-                <element signature="e#785#963#0" expanded="true" />
-                <element signature="e#785#963#0" expanded="true" />
-                <element signature="e#785#963#0" expanded="true" />
-                <element signature="e#798#876#1" expanded="true" />
-                <element signature="e#930#952#0" expanded="true" />
-                <element signature="e#930#952#0" expanded="true" />
-                <element signature="e#932#974#1" expanded="true" />
-                <element signature="e#1025#1140#0" expanded="true" />
-                <element signature="e#987#995#1" expanded="true" />
-                <element signature="e#1025#1140#0" expanded="true" />
-                <element signature="e#1025#1140#0" expanded="true" />
-                <element signature="e#1025#1140#0" expanded="true" />
-                <element signature="e#1025#1140#0" expanded="true" />
-                <element signature="e#1049#1082#0" expanded="true" />
-                <element signature="e#1106#1123#0" expanded="true" />
-                <element signature="e#1106#1123#0" expanded="true" />
-                <element signature="e#1151#1177#0" expanded="true" />
-                <element signature="e#1151#1177#0" expanded="true" />
-                <element signature="e#1203#1284#0" expanded="true" />
-                <element signature="e#1203#1284#0" expanded="true" />
-                <element signature="e#1543#1587#1" expanded="true" />
-                <element signature="e#1626#1692#1" expanded="true" />
-                <element signature="e#1701#1748#1" expanded="true" />
-                <element signature="e#1730#1747#0" expanded="true" />
-                <element signature="e#1730#1846#0" expanded="true" />
-                <element signature="e#1762#1772#1" expanded="true" />
-                <element signature="e#1730#1846#0" expanded="true" />
-                <element signature="e#1730#1846#0" expanded="true" />
-                <element signature="e#1730#1846#0" expanded="true" />
-                <element signature="e#1730#1846#0" expanded="true" />
-                <element signature="e#1784#1835#0" expanded="true" />
-                <element signature="e#1784#1835#0" expanded="true" />
-                <element signature="e#1882#1953#1" expanded="true" />
-                <element signature="e#1962#2004#1" expanded="true" />
-                <element signature="e#1987#2102#0" expanded="true" />
-                <element signature="e#2017#2025#1" expanded="true" />
-                <element signature="e#1987#2102#0" expanded="true" />
-                <element signature="e#1987#2102#0" expanded="true" />
-                <element signature="e#1987#2102#0" expanded="true" />
-                <element signature="e#1987#2102#0" expanded="true" />
-                <element signature="e#2079#2112#0" expanded="true" />
-                <element signature="e#2068#2085#0" expanded="true" />
-                <element signature="e#2068#2085#0" expanded="true" />
-                <element signature="e#2111#2137#0" expanded="true" />
-                <element signature="e#2111#2137#0" expanded="true" />
-                <element signature="e#2192#2269#0" expanded="true" />
-                <element signature="e#2192#2269#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/function/IntConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/multithreading/UsageOfCountDownLatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-              <folding>
-                <element signature="e#253#300#1" expanded="true" />
-                <element signature="e#309#356#1" expanded="true" />
-                <element signature="e#236#251#1" expanded="true" />
-                <element signature="e#439#515#1" expanded="true" />
-                <element signature="e#380#443#1" expanded="true" />
-                <element signature="e#452#515#1" expanded="true" />
-                <element signature="e#837#912#0" expanded="true" />
-                <element signature="e#837#912#0" expanded="true" />
-                <element signature="e#1309#1374#0" expanded="true" />
-                <element signature="e#1309#1374#0" expanded="true" />
-                <element signature="e#1385#1460#0" expanded="true" />
-                <element signature="e#1385#1460#0" expanded="true" />
-                <element signature="e#1539#1594#0" expanded="true" />
-                <element signature="e#958#990#0" expanded="true" />
-                <element signature="e#1539#1594#0" expanded="true" />
-                <element signature="e#1607#1639#0" expanded="true" />
-                <element signature="e#1607#1639#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/generics/LoadChildToParent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="28" column="15" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#230#284#1" expanded="true" />
-                <element signature="e#204#221#0" expanded="true" />
-                <element signature="e#293#348#1" expanded="true" />
-                <element signature="e#319#435#0" expanded="true" />
-                <element signature="e#319#435#0" expanded="true" />
-                <element signature="e#447#565#1" expanded="true" />
-                <element signature="e#485#562#0" expanded="true" />
-                <element signature="e#485#562#0" expanded="true" />
-                <element signature="e#612#766#1" expanded="true" />
-                <element signature="e#663#772#0" expanded="true" />
-                <element signature="e#663#772#0" expanded="true" />
-                <element signature="e#794#847#1" expanded="true" />
-                <element signature="e#829#846#0" expanded="true" />
-                <element signature="e#845#884#0" expanded="true" />
-                <element signature="e#845#884#0" expanded="true" />
-                <element signature="e#894#929#0" expanded="true" />
-                <element signature="e#894#929#0" expanded="true" />
-                <element signature="e#939#979#0" expanded="true" />
-                <element signature="e#939#979#0" expanded="true" />
-                <element signature="e#990#1070#0" expanded="true" />
-                <element signature="e#995#1005#0" expanded="true" />
-                <element signature="e#990#1070#0" expanded="true" />
-                <element signature="e#1252#1293#0" expanded="true" />
-                <element signature="e#2031#2111#0" expanded="true" />
-                <element signature="e#985#1002#0" expanded="true" />
-                <element signature="e#2031#2111#0" expanded="true" />
-                <element signature="e#2078#2100#0" expanded="true" />
-                <element signature="e#2078#2100#0" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-                <element signature="e#2557#2639#0" expanded="true" />
-                <element signature="e#2557#2639#0" expanded="true" />
-                <element signature="e#2557#2639#0" expanded="true" />
-                <element signature="e#2557#2639#0" expanded="true" />
-                <element signature="e#2557#2639#0" expanded="true" />
-                <element signature="e#893#894#0" expanded="true" />
-                <element signature="e#920#921#0" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
-                <element signature="e#1018#1019#0" expanded="true" />
-                <element signature="e#1082#1083#0" expanded="true" />
-                <element signature="e#1109#1110#0" expanded="true" />
-                <element signature="e#3155#3156#0" expanded="true" />
-                <element signature="e#3182#3183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/Number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/multithreading/PrintSentence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#127#177#1" expanded="true" />
-                <element signature="e#186#237#1" expanded="true" />
-                <element signature="e#246#302#1" expanded="true" />
-                <element signature="e#755#763#1" expanded="true" />
-                <element signature="e#754#1196#0" expanded="true" />
-                <element signature="e#754#1196#0" expanded="true" />
-                <element signature="e#754#1196#0" expanded="true" />
-                <element signature="e#1130#1147#0" expanded="true" />
-                <element signature="e#1130#1147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/CountDownLatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1465">
-              <caret line="290" column="20" lean-forward="true" selection-start-line="290" selection-start-column="20" selection-end-line="290" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/CyclicBarrier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2828">
-              <caret line="261" column="9" lean-forward="true" selection-start-line="261" selection-start-column="9" selection-end-line="261" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -346,175 +37,27 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>SystemClassLoaderAction</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/intellijWorkSpace/webDemoFull" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/org/ps/rampup/generics/GenericTest.java" />
-        <option value="$PROJECT_DIR$/src/org/ps/rampup/model/GenericITEmployee.java" />
-        <option value="$PROJECT_DIR$/src/org/ps/rampup/model/GenericEmployee.java" />
-        <option value="$PROJECT_DIR$/src/org/ps/rampup/cloning/TestCloneable.java" />
-        <option value="$PROJECT_DIR$/src/org/ps/rampup/generics/GenericMethodTest.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/model/GenericITEmployee.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/random/StackOverFlowDepth.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/generics/GenericTest.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/classLoader/CustomClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/customloaded/GinnyPig.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/generics/GenericMethodTest.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/classLoader/CustomLoader.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/classLoader/TestCustomClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/collections/NameSortingProblem.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/memory/OutOfMemoryTest.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/multithreading/PrintSentence.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/multithreading/ZeroEvenOdd.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/multithreading/SumOfArrays.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/multithreading/UsageOfCountDownLatch.java" />
-        <option value="$PROJECT_DIR$/src/org/personal/rampup/generics/LoadChildToParent.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="291" />
-    <option name="y" value="40" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <autoscrollToSource ProjectPane="true" />
-      <autoscrollFromSource ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalRampUP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalRampUP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalRampUP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="rampup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalRampUP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="rampup" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalRampUP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="rampup" type="462c0819:PsiDirectoryNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalRampUP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="rampup" type="462c0819:PsiDirectoryNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="ZeroEvenOdd.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; JDK_1.8.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; JDK_1.8.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; JDK_1.8.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; JDK_1.8.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; JDK_1.8.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; JDK_1.8.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalRampUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; JDK_1.8.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="atomic" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1SsVmmV3Ht6MUbawdpAdVGUFqou" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544855287737" />
+    <property name="SearchEverywhereHistoryKey" value="ThreadFac&#9;PSI&#9;JAVA://java.util.concurrent.ThreadFactory&#10;concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Linked&#9;FILE&#9;jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/LinkedList.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568438662755" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="C:/Java/lombok.jar!/" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.personal.rampup.problemSolving" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -528,20 +71,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOfArrays">
-    <configuration default="true" type="Applet" factoryName="Applet">
+  <component name="RunManager" selected="Application.ZeroOneArray">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoadChildToParent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.generics.LoadChildToParent" />
+    <configuration name="JustTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.BacchaInterviewRounds.JustTesting" />
       <module name="personalRampUP" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.personal.rampup.generics.*" />
+          <option name="PATTERN" value="org.personal.rampup.BacchaInterviewRounds.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -549,13 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.multithreading.PrintSentence" />
+    <configuration name="MaximumInstructionsDeletion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.random.MaximumInstructionsDeletion" />
       <module name="personalRampUP" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.personal.rampup.multithreading.*" />
+          <option name="PATTERN" value="org.personal.rampup.random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -563,13 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.multithreading.SumOfArrays" />
+    <configuration name="MirrorTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.random.MirrorTree" />
       <module name="personalRampUP" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.personal.rampup.multithreading.*" />
+          <option name="PATTERN" value="org.personal.rampup.random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -577,27 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsageOfCountDownLatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.multithreading.UsageOfCountDownLatch" />
+    <configuration name="ZeroOneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.problemSolving.ZeroOneArray" />
       <module name="personalRampUP" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.personal.rampup.multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZeroEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.multithreading.ZeroEvenOdd" />
-      <module name="personalRampUP" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.personal.rampup.multithreading.*" />
+          <option name="PATTERN" value="org.personal.rampup.problemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -611,13 +140,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sapient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.personal.rampup.problemSolvingFresh.sapient" />
+      <module name="personalRampUP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.personal.rampup.problemSolvingFresh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -625,29 +170,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrintSentence" />
-      <item itemvalue="Application.ZeroEvenOdd" />
-      <item itemvalue="Application.LoadChildToParent" />
-      <item itemvalue="Application.UsageOfCountDownLatch" />
-      <item itemvalue="Application.SumOfArrays" />
+      <item itemvalue="Application.MaximumInstructionsDeletion" />
+      <item itemvalue="Application.MirrorTree" />
+      <item itemvalue="Application.sapient" />
+      <item itemvalue="Application.JustTesting" />
+      <item itemvalue="Application.ZeroOneArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfArrays" />
-        <item itemvalue="Application.UsageOfCountDownLatch" />
-        <item itemvalue="Application.LoadChildToParent" />
-        <item itemvalue="Application.ZeroEvenOdd" />
-        <item itemvalue="Application.PrintSentence" />
+        <item itemvalue="Application.ZeroOneArray" />
+        <item itemvalue="Application.JustTesting" />
+        <item itemvalue="Application.sapient" />
+        <item itemvalue="Application.MirrorTree" />
+        <item itemvalue="Application.MaximumInstructionsDeletion" />
       </list>
     </recent_temporary>
   </component>
@@ -679,74 +224,32 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="85" y="-8" width="1843" height="1096" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2551879" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4991587" visible="true" weight="0.32978722" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49971956" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49971956" weight="0.32978722" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50028044" side_tool="true" weight="0.32978722" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49859786" weight="0.32978722" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="11" weight="0.32978722" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="12" weight="0.32978722" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2551879" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991587" weight="0.32978722" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49971956" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49971956" weight="0.32978722" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50028044" side_tool="true" weight="0.32978722" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49859786" weight="0.32978722" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="11" weight="0.32978722" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="12" weight="0.32978722" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="compilation issue commented!!" />
@@ -759,713 +262,183 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/personal/rampup/multithreading/ZeroEvenOdd.java</url>
           <line>65</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/generics/TestArrayGeneric.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/collections/custom/CustomDemo.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/collections/custom/CustomDoublyLinkedList.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/collections/custom/CustomDoublyLinkedList.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/collections/custom/CustomDoublyLinkedList.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/Solution.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/SortedArrayMedian.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/Arrays.java</url>
+          <line>3589</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/SortedArrayMedian.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/SortedArrayMedian.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/SortedArrayMedian.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/SortedMedian.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/SortedMedian.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/SortedMedian.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/PanagramProblem.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/SmallestInSortedRotatedArray.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/SquareRoot.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolving/CountBracket.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/sorting/MergeSort.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/problemSolvingFresh/BacchaTestSaggeza.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/random/MaximumInstructionsDeletion.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/random/MaximumInstructionsDeletion.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/random/MaximumInstructionsDeletion.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/BacchaInterviewRounds/JustTesting.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/personal/rampup/BacchaInterviewRounds/JustTesting.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>count % 3 != threadNumber</expression-string>
+        <expression-string>team.get(i-1)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>m.isBridge()</expression-string>
+        <expression-string>parentOfTheNode.get(goalNode)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>curr.getNeighbours()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!searchSpace.isEmpty()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Arrays.asList(Stream.of(sortedInputStr.split(&quot;&quot;))).contains(e)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>refSet</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>missingElements.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>aStart + k / 2 - 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Start + k / 2 - 1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/collections/AlternateExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/jre/lib/rt.jar!/com/sun/xml/internal/ws/util/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="5" selection-start-line="8" selection-start-column="25" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/jre/lib/deploy.jar!/com/sun/deploy/util/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6131">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/resources/Messages_es.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/ClassLoaderUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/ConditionLock.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/ClassCastException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="44" column="37" lean-forward="true" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/NoClassDefFoundError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/LinkageError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="51" column="39" lean-forward="true" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24714">
-          <caret line="1456" column="51" selection-start-line="1456" selection-start-column="28" selection-end-line="1456" selection-end-column="51" />
-          <folding>
-            <element signature="e#83683#83684#0" expanded="true" />
-            <element signature="e#83719#83720#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/random/StackOverFlowDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/generics/GenericTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#469#493#0" expanded="true" />
-            <element signature="e#469#505#0" expanded="true" />
-            <element signature="e#488#533#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/security/SecureClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/net/URLClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1388">
-          <caret line="72" column="45" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="500" column="17" lean-forward="true" selection-start-line="500" selection-start-column="17" selection-end-line="500" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/customloaded/GinnyPig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#423#506#0" expanded="true" />
-            <element signature="e#423#506#0" expanded="true" />
-            <element signature="e#423#506#0" expanded="true" />
-            <element signature="e#423#506#0" expanded="true" />
-            <element signature="e#423#506#0" expanded="true" />
-            <element signature="e#423#506#0" expanded="true" />
-            <element signature="e#423#506#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/classLoader/CustomClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#190#225#1" expanded="true" />
-            <element signature="e#348#493#1" expanded="true" />
-            <element signature="e#374#384#0" expanded="true" />
-            <element signature="e#374#401#0" expanded="true" />
-            <element signature="e#640#692#0" expanded="true" />
-            <element signature="e#640#692#0" expanded="true" />
-            <element signature="e#525#588#1" expanded="true" />
-            <element signature="e#597#615#1" expanded="true" />
-            <element signature="e#843#952#0" expanded="true" />
-            <element signature="e#843#952#0" expanded="true" />
-            <element signature="e#963#1029#0" expanded="true" />
-            <element signature="e#963#1029#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/classLoader/CustomLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="21" column="7" selection-start-line="19" selection-start-column="3" selection-end-line="21" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1053#1116#1" expanded="true" />
-            <element signature="e#934#982#0" expanded="true" />
-            <element signature="e#934#982#0" expanded="true" />
-            <element signature="e#1129#1145#1" expanded="true" />
-            <element signature="e#1482#1526#1" expanded="true" />
-            <element signature="e#1423#1514#0" expanded="true" />
-            <element signature="e#1423#1514#0" expanded="true" />
-            <element signature="e#2158#2188#0" expanded="true" />
-            <element signature="e#2158#2188#0" expanded="true" />
-            <element signature="e#1933#2104#0" expanded="true" />
-            <element signature="e#1933#2104#0" expanded="true" />
-            <element signature="e#2925#3021#1" expanded="true" />
-            <element signature="e#2946#2956#0" expanded="true" />
-            <element signature="e#2946#2973#0" expanded="true" />
-            <element signature="e#3034#3064#1" expanded="true" />
-            <element signature="e#3077#3106#1" expanded="true" />
-            <element signature="e#3119#3168#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="264" column="44" lean-forward="true" selection-start-line="264" selection-start-column="44" selection-end-line="264" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/classLoader/TestCustomClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/collections/NameSortingProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/generics/GenericMethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="16" column="71" lean-forward="true" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/memory/OutOfMemoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="6509" column="22" selection-start-line="6509" selection-start-column="22" selection-end-line="6509" selection-end-column="22" />
-          <folding>
-            <element signature="e#5163#5164#0" expanded="true" />
-            <element signature="e#5737#5738#0" expanded="true" />
-            <element signature="e#233921#233922#0" expanded="true" />
-            <element signature="e#233965#233966#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/Executor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1908">
-          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20448">
-          <caret line="1196" column="11" selection-start-line="1196" selection-start-column="11" selection-end-line="1196" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="79" column="58" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/ThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/AbstractExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="111" column="10" selection-start-line="111" selection-start-column="10" selection-end-line="111" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10350">
-          <caret line="620" column="16" selection-start-line="620" selection-start-column="16" selection-end-line="620" selection-end-column="16" />
-          <folding>
-            <element signature="e#23406#23407#0" expanded="true" />
-            <element signature="e#23455#23456#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3132">
-          <caret line="215" column="24" selection-start-line="215" selection-start-column="24" selection-end-line="215" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
-          <caret line="577" column="36" selection-start-line="577" selection-start-column="36" selection-end-line="577" selection-end-column="36" />
-          <folding>
-            <element signature="e#21492#21505#0" expanded="true" />
-            <element signature="e#21492#21505#0" expanded="true" />
-            <element signature="e#21512#21513#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="76" column="11" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
-          <folding>
-            <element signature="e#27895#27952#0" expanded="true" />
-            <element signature="e#27941#27942#0" expanded="true" />
-            <element signature="e#27895#27952#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/multithreading/PrintSentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#127#177#1" expanded="true" />
-            <element signature="e#186#237#1" expanded="true" />
-            <element signature="e#246#302#1" expanded="true" />
-            <element signature="e#755#763#1" expanded="true" />
-            <element signature="e#754#1196#0" expanded="true" />
-            <element signature="e#754#1196#0" expanded="true" />
-            <element signature="e#754#1196#0" expanded="true" />
-            <element signature="e#1130#1147#0" expanded="true" />
-            <element signature="e#1130#1147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1465">
-          <caret line="290" column="20" lean-forward="true" selection-start-line="290" selection-start-column="20" selection-end-line="290" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/CyclicBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2828">
-          <caret line="261" column="9" lean-forward="true" selection-start-line="261" selection-start-column="9" selection-end-line="261" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/lang/Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/multithreading/ZeroEvenOdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#125#172#1" expanded="true" />
-            <element signature="e#181#228#1" expanded="true" />
-            <element signature="e#237#284#1" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#761#2500#0" expanded="true" />
-            <element signature="e#761#2500#0" expanded="true" />
-            <element signature="e#795#1301#0" expanded="true" />
-            <element signature="e#799#826#0" expanded="true" />
-            <element signature="e#799#826#0" expanded="true" />
-            <element signature="e#795#1301#0" expanded="true" />
-            <element signature="e#887#1153#0" expanded="true" />
-            <element signature="e#887#1153#0" expanded="true" />
-            <element signature="e#1024#1131#0" expanded="true" />
-            <element signature="e#1024#1131#0" expanded="true" />
-            <element signature="e#1315#1896#0" expanded="true" />
-            <element signature="e#1319#1346#0" expanded="true" />
-            <element signature="e#1319#1346#0" expanded="true" />
-            <element signature="e#1315#1896#0" expanded="true" />
-            <element signature="e#1407#1716#0" expanded="true" />
-            <element signature="e#1407#1716#0" expanded="true" />
-            <element signature="e#1587#1694#0" expanded="true" />
-            <element signature="e#1587#1694#0" expanded="true" />
-            <element signature="e#1910#2490#0" expanded="true" />
-            <element signature="e#1914#1940#0" expanded="true" />
-            <element signature="e#1914#1940#0" expanded="true" />
-            <element signature="e#1910#2490#0" expanded="true" />
-            <element signature="e#2001#2310#0" expanded="true" />
-            <element signature="e#2001#2310#0" expanded="true" />
-            <element signature="e#2181#2288#0" expanded="true" />
-            <element signature="e#2181#2288#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="281" column="56" lean-forward="true" selection-start-line="281" selection-start-column="56" selection-end-line="281" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/Jdk/jdk1.8.0_144/src.zip!/java/util/function/IntConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/multithreading/SumOfArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#165#203#1" expanded="true" />
-            <element signature="e#212#250#1" expanded="true" />
-            <element signature="e#563#607#1" expanded="true" />
-            <element signature="e#616#682#1" expanded="true" />
-            <element signature="e#691#735#1" expanded="true" />
-            <element signature="e#717#734#0" expanded="true" />
-            <element signature="e#785#963#0" expanded="true" />
-            <element signature="e#749#759#1" expanded="true" />
-            <element signature="e#785#963#0" expanded="true" />
-            <element signature="e#785#963#0" expanded="true" />
-            <element signature="e#785#963#0" expanded="true" />
-            <element signature="e#785#963#0" expanded="true" />
-            <element signature="e#798#876#1" expanded="true" />
-            <element signature="e#930#952#0" expanded="true" />
-            <element signature="e#930#952#0" expanded="true" />
-            <element signature="e#932#974#1" expanded="true" />
-            <element signature="e#1025#1140#0" expanded="true" />
-            <element signature="e#987#995#1" expanded="true" />
-            <element signature="e#1025#1140#0" expanded="true" />
-            <element signature="e#1025#1140#0" expanded="true" />
-            <element signature="e#1025#1140#0" expanded="true" />
-            <element signature="e#1025#1140#0" expanded="true" />
-            <element signature="e#1049#1082#0" expanded="true" />
-            <element signature="e#1106#1123#0" expanded="true" />
-            <element signature="e#1106#1123#0" expanded="true" />
-            <element signature="e#1151#1177#0" expanded="true" />
-            <element signature="e#1151#1177#0" expanded="true" />
-            <element signature="e#1203#1284#0" expanded="true" />
-            <element signature="e#1203#1284#0" expanded="true" />
-            <element signature="e#1543#1587#1" expanded="true" />
-            <element signature="e#1626#1692#1" expanded="true" />
-            <element signature="e#1701#1748#1" expanded="true" />
-            <element signature="e#1730#1747#0" expanded="true" />
-            <element signature="e#1730#1846#0" expanded="true" />
-            <element signature="e#1762#1772#1" expanded="true" />
-            <element signature="e#1730#1846#0" expanded="true" />
-            <element signature="e#1730#1846#0" expanded="true" />
-            <element signature="e#1730#1846#0" expanded="true" />
-            <element signature="e#1730#1846#0" expanded="true" />
-            <element signature="e#1784#1835#0" expanded="true" />
-            <element signature="e#1784#1835#0" expanded="true" />
-            <element signature="e#1882#1953#1" expanded="true" />
-            <element signature="e#1962#2004#1" expanded="true" />
-            <element signature="e#1987#2102#0" expanded="true" />
-            <element signature="e#2017#2025#1" expanded="true" />
-            <element signature="e#1987#2102#0" expanded="true" />
-            <element signature="e#1987#2102#0" expanded="true" />
-            <element signature="e#1987#2102#0" expanded="true" />
-            <element signature="e#1987#2102#0" expanded="true" />
-            <element signature="e#2079#2112#0" expanded="true" />
-            <element signature="e#2068#2085#0" expanded="true" />
-            <element signature="e#2068#2085#0" expanded="true" />
-            <element signature="e#2111#2137#0" expanded="true" />
-            <element signature="e#2111#2137#0" expanded="true" />
-            <element signature="e#2192#2269#0" expanded="true" />
-            <element signature="e#2192#2269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/multithreading/UsageOfCountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-          <folding>
-            <element signature="e#253#300#1" expanded="true" />
-            <element signature="e#309#356#1" expanded="true" />
-            <element signature="e#236#251#1" expanded="true" />
-            <element signature="e#439#515#1" expanded="true" />
-            <element signature="e#380#443#1" expanded="true" />
-            <element signature="e#452#515#1" expanded="true" />
-            <element signature="e#837#912#0" expanded="true" />
-            <element signature="e#837#912#0" expanded="true" />
-            <element signature="e#1309#1374#0" expanded="true" />
-            <element signature="e#1309#1374#0" expanded="true" />
-            <element signature="e#1385#1460#0" expanded="true" />
-            <element signature="e#1385#1460#0" expanded="true" />
-            <element signature="e#1539#1594#0" expanded="true" />
-            <element signature="e#958#990#0" expanded="true" />
-            <element signature="e#1539#1594#0" expanded="true" />
-            <element signature="e#1607#1639#0" expanded="true" />
-            <element signature="e#1607#1639#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/personal/rampup/generics/LoadChildToParent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="28" column="15" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#230#284#1" expanded="true" />
-            <element signature="e#204#221#0" expanded="true" />
-            <element signature="e#293#348#1" expanded="true" />
-            <element signature="e#319#435#0" expanded="true" />
-            <element signature="e#319#435#0" expanded="true" />
-            <element signature="e#447#565#1" expanded="true" />
-            <element signature="e#485#562#0" expanded="true" />
-            <element signature="e#485#562#0" expanded="true" />
-            <element signature="e#612#766#1" expanded="true" />
-            <element signature="e#663#772#0" expanded="true" />
-            <element signature="e#663#772#0" expanded="true" />
-            <element signature="e#794#847#1" expanded="true" />
-            <element signature="e#829#846#0" expanded="true" />
-            <element signature="e#845#884#0" expanded="true" />
-            <element signature="e#845#884#0" expanded="true" />
-            <element signature="e#894#929#0" expanded="true" />
-            <element signature="e#894#929#0" expanded="true" />
-            <element signature="e#939#979#0" expanded="true" />
-            <element signature="e#939#979#0" expanded="true" />
-            <element signature="e#990#1070#0" expanded="true" />
-            <element signature="e#995#1005#0" expanded="true" />
-            <element signature="e#990#1070#0" expanded="true" />
-            <element signature="e#1252#1293#0" expanded="true" />
-            <element signature="e#2031#2111#0" expanded="true" />
-            <element signature="e#985#1002#0" expanded="true" />
-            <element signature="e#2031#2111#0" expanded="true" />
-            <element signature="e#2078#2100#0" expanded="true" />
-            <element signature="e#2078#2100#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#2557#2639#0" expanded="true" />
-            <element signature="e#2557#2639#0" expanded="true" />
-            <element signature="e#2557#2639#0" expanded="true" />
-            <element signature="e#2557#2639#0" expanded="true" />
-            <element signature="e#2557#2639#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1018#1019#0" expanded="true" />
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1109#1110#0" expanded="true" />
-            <element signature="e#3155#3156#0" expanded="true" />
-            <element signature="e#3182#3183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>JDK_1.8.0</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>sapientRampUP</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

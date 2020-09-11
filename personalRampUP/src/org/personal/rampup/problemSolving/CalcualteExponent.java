@@ -2,7 +2,8 @@ package org.personal.rampup.problemSolving;
 
 import java.sql.SQLOutput;
 
-public class CalcualteExponent {
+public class
+CalcualteExponent {
     public static void main(String[] args) {
         runTest();
     }
